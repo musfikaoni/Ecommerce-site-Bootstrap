@@ -2,6 +2,11 @@
     background-color: #FF136F;
     color: white;
 }
+.btn-panda:hover {
+    border: 1px solid black;
+    background-color: #fff;
+    color: black;
+}
 .sub {
     height: 350px;
 }
